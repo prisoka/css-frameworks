@@ -4,10 +4,10 @@ For this assessment you will be creating a basic html file and styling it with o
 
 In order to score a 3, the following must be met
 
-[] Include Bootstrap, Materialize or a similar framework
-[] Include a nav
-[] Include a multi-column layout
-[] The Nav must collapse when the window shrinks
+* [] Include Bootstrap, Materialize or a similar framework
+* [] Include a nav
+* [] Include a multi-column layout
+* [] The Nav must collapse when the window shrinks
 
 Note that you cannot define your own CSS rules / bring in a custom css file.
 
