@@ -2,15 +2,14 @@
 
 For this assessment you will be creating a basic html file and styling it with only a CSS Framework like Bootstrap or Materialize.
 
-In order to score a 3, the following must be met
+Your assignment must meet the following requirements:
 
 * [ ] Include Bootstrap, Materialize or a similar framework
 * [ ] Include a nav
 * [ ] Include a footer
 * [ ] Include a multi-column layout
 * [ ] The Nav must collapse when the window shrinks
-
-Note that you cannot define your own CSS rules / bring in a custom css file.
+* [ ] Mobile-first design
 
 ## As an example take a look at the example screenshots
 
