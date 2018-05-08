@@ -15,3 +15,5 @@ Your assignment must meet the following requirements:
 
 ![Full Screen](demo-full-screen.png)
 ![Small window](demo-crunched-down.png)
+
+Assessment completed, using Bulma CSS Framework. Deployed URL: http://prisoka-css-framework-assessment.surge.sh/
