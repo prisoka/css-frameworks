@@ -4,17 +4,17 @@
 http://prisoka-css-framework-assessment.surge.sh/
 
 ## What are you looking at? 
-
-After 2 weeks that I've started watching online JS tutorials, I was playing around with HTML, CSS and JS, and wrote this simple page to put in practice what I was learning. I am proud that I was able to complete it in few hours, with no previous programming experience.
+For this assessment I created a basic html file and styled it with a CSS Framework.
+Exercise of week 5, at Galvanize Web Dev Immersive.
 
 ## Time:
-Completed in a couple of hours. 
+Completed in on day. 
 
 ## Skills Learned: 
-HTML, CSS, JavaScript, and Surge to deploy.
+HTML, CSS, JavaScript, Bulma, and Surge to deploy.
 
 ## Task:
-For this assessment you will be creating a basic html file and styling it with only a CSS Framework like Bootstrap or Materialize. Your assignment must meet the following requirements:
+Your assignment must meet the following requirements:
 
 * [ ] Include Bootstrap, Materialize or a similar framework
 * [ ] Include a nav
