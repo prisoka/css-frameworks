@@ -1,0 +1,22 @@
+{
+  "name": "css-frameworks",
+  "version": "1.0.0",
+  "description": "For this assessment you will be creating a basic html file and styling it with only a CSS Framework like Bootstrap or Materialize.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisoka/css-frameworks.git"
+  },
+  "author": "prisoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prisoka/css-frameworks/issues"
+  },
+  "homepage": "https://github.com/prisoka/css-frameworks#readme",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  }
+}

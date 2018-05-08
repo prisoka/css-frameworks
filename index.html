@@ -1,11 +1,157 @@
 <!DOCTYPE html>
 <html>
+
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CSS Framework assessment</title>
     <!-- Your code here -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+    <style>
+      #bear {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        height: 30%;
+      }
+    </style>
   </head>
+
   <body>
     <!-- Your code here -->
+
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="navbarExampleTransparentExample" class="navbar-menu">
+        <div class="navbar-start">
+          <a class="navbar-item" href="index.html">
+            Home
+          </a>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Select the animal
+            </a>
+            <div class="navbar-dropdown is-boxed">
+              <a class="navbar-item" href="bears.html">
+                Bears
+              </a>
+              <a class="navbar-item" href="birds.html">
+                Birds
+              </a>
+              <a class="navbar-item" href="dogs.html">
+                Dogs
+              </a>
+              <hr class="navbar-divider">
+              <a class="navbar-item" href="https://www.google.com/">
+                Learn more...
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="navbar-end">
+          <div class="navbar-item">
+            <div class="field is-grouped">
+              <p class="control">
+                <a class="bd-tw-button button" data-social-network="Twitter" data-social-action="tweet" data-social-target="http://localhost:4000" target="_blank" href="https://twitter.com/intent/tweet?text=Bulma: a modern CSS framework based on Flexbox&amp;hashtags=bulmaio&amp;url=http://localhost:4000&amp;via=jgthms">
+                  <span class="icon">
+                    <i class="fab fa-twitter"></i>
+                  </span>
+                  <span>
+                    Tweet
+                  </span>
+                </a>
+              </p>
+              <p class="control">
+                <a class="button is-primary" href="#">
+                  <span class="icon">
+                    <i class="fas fa-download"></i>
+                  </span>
+                  <span>Download</span>
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <section class="hero is-light is-bold">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title">
+            CSS Framework
+          </h1>
+          <h2 class="subtitle">
+            Assessment
+          </h2>
+        </div>
+      </div>
+    </section>
+    <br />
+
+    <div class="tile is-ancestor">
+      <div class="tile is-vertical is-8">
+        <div class="tile">
+          <div class="tile is-parent is-vertical">
+            <article class="tile is-child notification is-warning">
+              <p class="title">Dogs...</p>
+              <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.</p>
+              <figure class="image is-128x128">
+                <img src="dog.jpeg">
+              </figure>
+            </article>
+          </div>
+          <div class="tile is-parent">
+            <article class="tile is-child notification is-info">
+              <p class="title">My zoo</p>
+              <figure class="image is-4by3">
+                <img src="animals.jpeg">
+              </figure>
+            </article>
+          </div>
+        </div>
+        <div class="tile is-parent">
+          <article class="tile is-child notification is-danger">
+            <div class="content">
+              <p class="title">Bears!</p>
+              <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.</p>
+              <img id="bear" src="bear.jpeg">
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="tile is-parent">
+        <article class="tile is-child notification is-success">
+          <div class="content">
+            <p class="title">...Birds</p>
+            <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.</p>
+            <figure class="image is-4by3">
+              <img src="bird.jpeg">
+            </figure>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="content has-text-centered">
+          <p>
+            Assessment using <strong>Bulma: a modern CSS framework based on Flexbox</strong> by <a href="https://github.com/prisoka/css-frameworks">prisoka</a>.
+          </p>
+        </div>
+      </div>
+    </footer>
   </body>
+
 </html>
