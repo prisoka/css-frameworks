@@ -4,11 +4,11 @@
 http://prisoka-css-framework-assessment.surge.sh/
 
 ## What are you looking at? 
-For this assessment I created a basic html file and styled it with a CSS Framework. <br />
-Exercise of week 5, at Galvanize Web Dev Immersive.
+For this assessment I created a basic html file and styled it using CSS Framework. <br />
+Week 5, at Galvanize Web Dev Immersive.
 
 ## Time:
-Completed in on day. 
+Completed in one day. 
 
 ## Skills Learned: 
 HTML, CSS, JavaScript, Bulma, and Surge to deploy.
