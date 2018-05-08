@@ -4,7 +4,7 @@
 http://prisoka-css-framework-assessment.surge.sh/
 
 ## What are you looking at? 
-For this assessment I created a basic html file and styled it with a CSS Framework.
+For this assessment I created a basic html file and styled it with a CSS Framework. <br />
 Exercise of week 5, at Galvanize Web Dev Immersive.
 
 ## Time:
