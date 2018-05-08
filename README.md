@@ -1,8 +1,20 @@
 # Build a Responsive Web Page with a CSS Framework Assessment
 
-For this assessment you will be creating a basic html file and styling it with only a CSS Framework like Bootstrap or Materialize.
+## Deployed URL: 
+http://prisoka-css-framework-assessment.surge.sh/
 
-Your assignment must meet the following requirements:
+## What are you looking at? 
+
+After 2 weeks that I've started watching online JS tutorials, I was playing around with HTML, CSS and JS, and wrote this simple page to put in practice what I was learning. I am proud that I was able to complete it in few hours, with no previous programming experience.
+
+## Time:
+Completed in a couple of hours. 
+
+## Skills Learned: 
+HTML, CSS, JavaScript, and Surge to deploy.
+
+## Task:
+For this assessment you will be creating a basic html file and styling it with only a CSS Framework like Bootstrap or Materialize. Your assignment must meet the following requirements:
 
 * [ ] Include Bootstrap, Materialize or a similar framework
 * [ ] Include a nav
@@ -10,10 +22,3 @@ Your assignment must meet the following requirements:
 * [ ] Include a multi-column layout
 * [ ] The Nav must collapse when the window shrinks
 * [ ] Mobile-first design
-
-## As an example take a look at the example screenshots
-
-![Full Screen](demo-full-screen.png)
-![Small window](demo-crunched-down.png)
-
-Assessment completed, using Bulma CSS Framework. Deployed URL: http://prisoka-css-framework-assessment.surge.sh/
